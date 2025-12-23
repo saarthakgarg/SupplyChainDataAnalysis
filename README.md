@@ -69,6 +69,15 @@ Derived Tables
 - exchange_rates
 - fact_summary (denormalized analytics table)
 
+<p align="center">
+    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/ETL%20Workflow.png' width="800">
+</p>
+
+<p align="center">
+    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/ETL%20Workflow.png' width="800">
+</p>
+
+
 ### ETL Workflow (n8n)
 
 1. Monitors a Gmail inbox for incoming sales emails using a trigger-based workflow
@@ -85,7 +94,7 @@ Derived Tables
 12. Support incremental daily loads
 
 <p align="center">
-    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/ETL%20Workflow.png' width="600">
+    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/ETL%20Workflow.png' width="800">
 </p>
 
 ### Analytics & KPIs
