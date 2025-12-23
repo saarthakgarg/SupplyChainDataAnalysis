@@ -114,11 +114,23 @@ The following supply chain KPIs are calculated and validated:
   
 All KPI calculations are domain-validated, not blindly trusted from AI output.
 
-## Revenue Dashboard - Overall Analysis View
-
+#### Executive KPI Summary
 <p align="center">
-    <img src='https://github.com/saarthakgarg/RevenueInsights-HospitalityDomain/blob/main/resources/Revenue%20Dashboard.png' width="600">
+  <img src="https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/KPI%20Summary.png" width="800">
 </p>
 
+#### Top Customers Performance (India & USA) & Revenue Loss Analysis
+<p align="center">
+  <img src="https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/Top%20Customers%20Performance%20(India%20%26%20USA)%20%26%20Revenue%20Loss%20Analysis.png" width="800">
+
+#### Category-Level (Revenue & Volume) Loss & OTIF Performance vs Targets
+<p align="center">
+  <img src="https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/Category-Level%20(Revenue%20%26%20Volume)%20Loss%20%26%20OTIF%20Performance%20vs%20Targets.png" width="800">
+</p>
+
+#### Late Delivery Diagnostics & Product-Level In-Full Analysis
+<p align="center">
+  <img src="https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/Late%20Delivery%20Diagnostics%20%26%20Product-Level%20In-Full%20Analysis.png" width="800">
+</p>
 
 ## Business Outcomes 
