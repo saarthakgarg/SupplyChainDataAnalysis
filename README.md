@@ -85,7 +85,7 @@ Derived Tables
 12. Support incremental daily loads
 
 <p align="center">
-    <img src='https://github.com/saarthakgarg/RevenueInsights-HospitalityDomain/blob/main/resources/Revenue%20Dashboard.png' width="600">
+    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/ETL%20Workflow.png' width="600">
 </p>
 
 ### Analytics & KPIs
