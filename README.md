@@ -122,6 +122,7 @@ All KPI calculations are domain-validated, not blindly trusted from AI output.
 #### Top Customers Performance (India & USA) & Revenue Loss Analysis
 <p align="center">
   <img src="https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/Top%20Customers%20Performance%20(India%20%26%20USA)%20%26%20Revenue%20Loss%20Analysis.png" width="800">
+</p>
 
 #### Category-Level (Revenue & Volume) Loss & OTIF Performance vs Targets
 <p align="center">
@@ -134,3 +135,7 @@ All KPI calculations are domain-validated, not blindly trusted from AI output.
 </p>
 
 ## Business Outcomes 
+
+The detailed business recommendations, impact assessment, and scaling decisions (including estimated revenue recovery and expansion guidance) are documented in a presentation.
+
+For detailed business outcomes and recommendations, please refer to the project presentation.
