@@ -44,21 +44,30 @@ Email → n8n → PostgreSQL (Supabase) → Quadratic (AI Spreadsheet)
 
 ### Tech Stack
 
-Layer	    Tools<br>
-Automation	n8n<br>
-Database	PostgreSQL (Supabase)<br>
-Analytics	Quadratic (AI Spreadsheet)<br>
-Languages	Python (Pandas), SQL<br>
-Data Format	CSV, JSON<br>
-APIs	    OpenExchangeRates (USD ↔ INR)<br>
+| Layer | Tools |
+| ------------- | ------------- |
+| Automation | n8n |
+| Database | PostgreSQL (Supabase) |
+| Analytics | Quadratic (AI Spreadsheet) |
+| Languages | Python (Pandas), SQL |
+| Data Format | CSV, JSON |
+| APIs | OpenExchangeRates (USD ↔ INR) |
 
-### Task List
+### 📊 Data Model
 
-You are a data analyst in the supply chain team who joined AtliQ Mart recently. You have been briefed about the task in the stakeholder business review meeting. 
+Fact Tables
+- fact_orders_aggregate – Order-level data
+- fact_order_line – Item-level order details
 
-Create the metrics according to the metrics list.
-Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting.
-Create relevant insights not provided in the metric list/stakeholder meeting.
+Dimension Tables
+- dim_customers
+- dim_products
+- dim_targets_orders
+- dim_date (AI-generated)
+
+Derived Tables
+- exchange_rates
+- fact_summary (denormalized analytics table)
 
 ## Revenue Dashboard - Overall Analysis View
 
