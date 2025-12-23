@@ -70,13 +70,15 @@ Derived Tables
 - fact_summary (denormalized analytics table)
 
 <p align="center">
-    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/ETL%20Workflow.png' width="800">
+    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/Schema%20Visualizer%20screenshot.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/ETL%20Workflow.png' width="800">
+    <img src='https://github.com/saarthakgarg/SupplyChainDataAnalysis/blob/main/resources/Tables%20list%20screenshot.png' 
+width="800">
 </p>
 
+- processed_files – Tracks ingested file hashes to ensure idempotent ETL and prevent duplicate data loads
 
 ### ETL Workflow (n8n)
 
