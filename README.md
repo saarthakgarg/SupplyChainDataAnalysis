@@ -1,8 +1,8 @@
 ## Project Overview
 
-This project demonstrates how modern AI-first tools can be used to build a production-style supply chain analytics system.
+This project demonstrates how modern AI-first tools can be used to build a production-style supply chain analysis system.
 
-The solution automates email-based data ingestion, stores data in a cloud PostgreSQL database, and enables prompt-driven analytics using an AI spreadsheet. The goal is to generate actionable supply chain KPIs such as OTIF, Fill Rates, and Delivery Performance across multiple countries.
+The solution automates email-based data ingestion, stores data in a cloud PostgreSQL database, and enables prompt-driven analysis using an AI spreadsheet. The goal is to generate actionable supply chain KPIs such as OTIF, Fill Rates, and Delivery Performance across multiple countries.
 
 The project is inspired by a real business scenario involving an FMCG company expanding from India to the USA and facing challenges in inventory availability and order fulfillment.
 
